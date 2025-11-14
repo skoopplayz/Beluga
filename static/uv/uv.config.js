@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: "/static/beluga",
-    bare: "https://test3883443334343.vercel.app/b/",
+    bare: "https://aluu.xyz/bare/",
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: "/uv/uv.handler.js",
